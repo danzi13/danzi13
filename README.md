@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Airbnb price predictor**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning more **Data Science**
 
 - 📫 How to reach me **mdanzi@nd.edu**
 
