@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Danzi</h1>
 <h3 align="center">A Master's CS student at Notre Dame | Graduate of Columbia University</h3>
 
-- 🔭 I’m currently working on **Airbnb price predictor**
+- 🔭 I’m currently working on **Ingredeint Subsitution and Computer Vision**
 
 - 🌱 I’m currently learning more **Data Science** and **PyTorch**
 
